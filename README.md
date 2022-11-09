@@ -1,0 +1,1 @@
+Repository ini berisi dokumentasi proyek pembuatan paper mata kuliah Statistik Produksi dengan judul "Analisis Cluster Provinsi di Indonesia Berdasarkan Potensi Komoditas Perkebunan"
